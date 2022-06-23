@@ -1,0 +1,42 @@
+.App {
+    background-color: bisque;
+    
+  }
+  .custom-nav {
+    background-color: rgb(255, 255, 130);
+  }
+  .carOptions {
+    font-family: Kunstler Script;
+    font-size: 60px;
+  }
+  
+  
+  
+  
+  
+  .logo-Style {
+    font-family: Franklin Gothic Medium;
+  }
+  .navbar .navbar-nav .nav-link:hover {
+    background-color: rgb(255, 251, 9);
+  }
+  .navbar {
+    padding: 0;
+  }
+  .navbar .navbar-nav .nav-link {
+    padding: 1em;
+    transition: all 1;
+  }
+ 
+  .href-Links {
+    text-align: center;
+    margin: auto;
+  }
+  .remain-S {
+    width: 100%;
+    height: 40%;
+    background-color: #fff38b;
+  }
+ 
+  
+  
