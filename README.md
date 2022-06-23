@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The grubhub website makes use of various react technologies a few of which include:
+-Localstorage
+-React routing
+-UseState
+-React's context API
+-Bootstrap-react for styling
+
+The project is the first react project i have ever made after a react course.
 
 ## Available Scripts
 
