@@ -7,7 +7,11 @@ The grubhub website makes use of various react technologies a few of which inclu
 -React routing\
 -UseState\
 -React's context API\
--Bootstrap-react for styling and responsiveness
+-Bootstrap-react for styling and responsiveness\
+\
+\
+\
+© Tahsan Samin All rights reserved 2022
 
 
 
